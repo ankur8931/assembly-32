@@ -1,0 +1,4 @@
+http://www.shell-storm.org/
+http://exploit-db.com
+http://www.projectshellcode.com
+ gcc -fno-stack-protector -z execstack shellcode.c -o shellcode
